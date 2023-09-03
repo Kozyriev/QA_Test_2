@@ -10,6 +10,10 @@ public class Main {
         System.out.println("Run Susanna");
 
         System.out.println("Tam Tam Tam ");
+        System.out.println("1 ");
+        System.out.println("2");
+        System.out.println("3");
+        System.out.println("4");
 
 
     }
