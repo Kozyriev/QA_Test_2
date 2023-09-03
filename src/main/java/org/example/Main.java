@@ -7,6 +7,8 @@ public class Main {
 
         System.out.println("Winter is coming!");
 
+        System.out.println("Tam Tam Tam ");
+
 
     }
 }
